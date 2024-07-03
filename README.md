@@ -15,19 +15,19 @@ An AI-based bot designed to automatically reply to messages, enhancing communica
 
 ## Chapters:
 **Chapter 1: Modules, Comments & pip**<br>
-  -- Writing the first Python program<br>
-  -- Understanding modules<br>
-  -- Using pip for package management<br>
-  -- Using Python as a calculator<br>
-  -- Comments in Python<br>
+  - Writing the first Python program<br>
+  - Understanding modules<br>
+  - Using pip for package management<br>
+  - Using Python as a calculator<br>
+  - Comments in Python<br>
   
 **Chapter 2: Variables and Data Types**<br>
-  -- Defining variables<br>
-  -- Different data types in Python<br>
-  -- Rules for choosing an identifier<br>
-  -- Operators in Python<br>
-  -- Using type() function and typecasting<br>
-  -- input() function<br>
+  - Defining variables<br>
+  - Different data types in Python<br>
+  - Rules for choosing an identifier<br>
+  - Operators in Python<br>
+  - Using type() function and typecasting<br>
+  - input() function<br>
   
 **Chapter 3: Strings**
 
