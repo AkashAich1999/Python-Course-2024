@@ -1,7 +1,6 @@
 Repository of my Hands-On Learning of Python in 2024 from "Ultimate Python Course" of CodeWithHarry YouTube Channel.
 
 ## Projects:
-##
 **Project 1: Snake Water Gun Game**<br>
 A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
 
