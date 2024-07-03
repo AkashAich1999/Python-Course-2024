@@ -14,29 +14,39 @@ A voice assistant application capable of performing various tasks such as playin
 An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
 
 ## Chapters:
-**Chapter 1: Modules, Comments & pip**
-  -- Writing the first Python program
-  -- Understanding modules
-  -- Using pip for package management
-  -- Using Python as a calculator
-  -- Comments in Python
+**Chapter 1: Modules, Comments & pip**<br>
+  -- Writing the first Python program<br>
+  -- Understanding modules<br>
+  -- Using pip for package management<br>
+  -- Using Python as a calculator<br>
+  -- Comments in Python<br>
   
-**Chapter 2: Variables and Data Types**
-  -- Defining variables
-  -- Different data types in Python
-  -- Rules for choosing an identifier
-  -- Operators in Python
-  -- Using type() function and typecasting
-  -- input() function
+**Chapter 2: Variables and Data Types**<br>
+  -- Defining variables<br>
+  -- Different data types in Python<br>
+  -- Rules for choosing an identifier<br>
+  -- Operators in Python<br>
+  -- Using type() function and typecasting<br>
+  -- input() function<br>
   
 **Chapter 3: Strings**
+
 **Chapter 4: Lists and Tuples**
+
 **Chapter 5: Dictionary & Sets**
+
 **Chapter 6: Conditional Expression**
+
 **Chapter 7: Loops in Python**
+
 **Chapter 8: Functions & Recursions**
+
 **Chapter 9: File I/O**
+
 **Chapter 10: Object-Oriented Programming**
+
 **Chapter 11: Inheritance & More on OOPs**
+
 **Chapter 12: Advanced Python 1**
+
 **Chapter 13: Advanced Python 2**
