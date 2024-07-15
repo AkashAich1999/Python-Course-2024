@@ -5,6 +5,12 @@ class Employee:
     def getInfo(self):
         print(f"The language is {self.language}. The salary is {self.salary}.")
 
+    @staticmethod
+    def greet():    # decorator to mark greet as a static method 
+        print("Good Moring!")   
+
 akash = Employee()
-akash.getInfo()         # Employee.getInfo(akash)
-Employee.getInfo(akash)    
+akash.getInfo()         # Equivalent to Employee.getInfo(akash)
+Employee.getInfo(akash)   
+
+akash.greet()
