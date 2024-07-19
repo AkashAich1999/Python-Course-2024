@@ -10,5 +10,5 @@ person: Tuple[str, int] = ("Alice", 30)
 score: Dict[str, int] = {"Alice": 90, "Bob": 85}
 
 # Union type for variables that can hold multiple types
-identifier = Union[int, str] = "ID123"
+identifier : Union[int, str] = "ID123"
 identifier = 12345      # Also Valid
